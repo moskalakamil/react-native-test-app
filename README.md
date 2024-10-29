@@ -93,6 +93,7 @@ in the wiki.
 [BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) &bull;
 [callstack/repack](https://github.com/callstack/repack) &bull;
 [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) &bull;
+[TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) &bull;
 [react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event) &bull;
 [react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) &bull;
 [react-native-async-storage](https://github.com/react-native-async-storage/async-storage) &bull;
