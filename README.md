@@ -93,7 +93,6 @@ in the wiki.
 [BabylonReactNative](https://github.com/BabylonJS/BabylonReactNative) &bull;
 [callstack/repack](https://github.com/callstack/repack) &bull;
 [lottie-react-native](https://github.com/lottie-react-native/lottie-react-native) &bull;
-[TheWidlarzGroup/react-native-video](https://github.com/TheWidlarzGroup/react-native-video) &bull;
 [react-native-add-calendar-event](https://github.com/vonovak/react-native-add-calendar-event) &bull;
 [react-native-apple-authentication](https://github.com/invertase/react-native-apple-authentication) &bull;
 [react-native-async-storage](https://github.com/react-native-async-storage/async-storage) &bull;
@@ -108,6 +107,7 @@ in the wiki.
 [react-native-netinfo](https://github.com/react-native-netinfo/react-native-netinfo) &bull;
 [react-native-pager-view](https://github.com/callstack/react-native-pager-view) &bull;
 [react-native-segmented-control](https://github.com/react-native-segmented-control/segmented-control) &bull;
+[react-native-video](https://github.com/TheWidlarzGroup/react-native-video) &bull;
 [react-native-webview](https://github.com/react-native-webview/react-native-webview) &bull;
 [realm-js](https://github.com/realm/realm-js) &bull;
 [shopify/restyle](https://github.com/Shopify/restyle) &bull;
